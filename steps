@@ -1,5 +1,8 @@
 steps 
 dowmload anaconda from https://www.anaconda.com/distribution/#download-section
+install Anaconda 
+python version : python --version
+anaconda version : conda --version
 explore anaconda elements 
   : jupiter - 
       command : jupyter notebook
