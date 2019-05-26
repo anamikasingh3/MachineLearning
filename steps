@@ -1,0 +1,7 @@
+steps 
+dowmload anaconda from https://www.anaconda.com/distribution/#download-section
+explore anaconda elements 
+  : jupiter - 
+      command : jupyter notebook
+  : spyder - 
+      command : start spyder
